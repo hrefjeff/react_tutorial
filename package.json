@@ -1,0 +1,25 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "tutorial for react",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jeffreyallen92/react_tutorial.git"
+  },
+  "author": "jeffrey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffreyallen92/react_tutorial/issues"
+  },
+  "homepage": "https://github.com/jeffreyallen92/react_tutorial#readme",
+  "dependencies": {
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0",
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
